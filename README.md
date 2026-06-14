@@ -83,7 +83,7 @@ RePlate builds an efficient bridge between **food donors** and **NGOs** to ensur
 
 Select if your project participates in any track:
 
-- [ ] **Expo Track** – Built using Expo  
+- [X] **Expo Track** – Built using Expo  
 - [ ] **Neo4j Track** – Uses AuraDB as primary database  
 - [ ] **Base44 Track** – Prototype/Final Product built using Base44  
 

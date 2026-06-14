@@ -226,7 +226,8 @@ Integrating Redis caching layer to optimize API response times.
 
 | Task ID | Task Description | Status | Details / Location |
 | :--- | :--- | :--- | :--- |
-| 13.1 | Configure Redis client | In Progress | Add redis dependency, config, and env variables |
-| 13.2 | Create Caching & Invalidation middleware | Pending | Safe caching decorator with db fallback |
-| 13.3 | Implement caching in routes | Pending | Cache GET donations, analytics, and listings with low TTLs |
-| 13.4 | Setup invalidation on mutations | Pending | Invalidate cache on post, patch, put, delete, and claims |
+| 13.1 | Configure Redis client | Done | Add redis dependency, config, and env variables |
+| 13.2 | Create Caching & Invalidation middleware | Done | Safe caching decorator with db fallback |
+| 13.3 | Implement caching in routes | Done | Cache GET donations, analytics, and listings with low TTLs |
+| 13.4 | Setup invalidation on mutations | Done | Invalidate cache on post, patch, put, delete, and claims |
+
