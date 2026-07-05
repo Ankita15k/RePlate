@@ -125,7 +125,7 @@ Provide a short note on how you used the partner technology:
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link (Mandatory):** [Paste link]  
+- **Demo Video Link (Mandatory):** [https://youtu.be/UautJUmb8yw]  
 - **Deployment Link (Recommended):** [Here](https://www.getreplate.qzz.io/)  
 - **Pitch Deck / PPT (Optional):** [Paste link]
 
