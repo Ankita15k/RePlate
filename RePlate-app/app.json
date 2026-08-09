@@ -10,13 +10,13 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.vickyraj898.replate",
+      "bundleIdentifier": "com.vickyraj89.replate",
       "infoPlist": {
         "NSLocationWhenInUseUsageDescription": "RePlate requires access to your location to select and auto-fill donation addresses and show nearby rescue points."
       }
     },
     "android": {
-      "package": "com.vickyraj898.replate",
+      "package": "com.vickyraj89.replate",
       "versionCode": 1,
       "permissions": [
         "ACCESS_COARSE_LOCATION",
